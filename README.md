@@ -1,6 +1,7 @@
-# Algoritmo de Classificação de Empréstimos com Árvore de Decisão
+# Algoritmo de Classificação de Empréstimos com Árvore de Decisão v1.0
 
-Desenvolvido um algoritmo completo que utiliza árvores de decisão para classificar solicitações de empréstimo com base nas informações dos clientes. O código foi criado no arquivo exercicio_py_charm.py.
+Algoritmo na liguagem python3 que utiliza árvores de decisão para classificar solicitações de empréstimo com base nas informações dos clientes.
+
 
 ## Funcionalidades implementadas:
 
@@ -43,4 +44,4 @@ Exemplo de uso:
 Para executar o algoritmo, basta rodar o script no terminal:
 
 ```bash
-python exercicio_py_charm.py
+python3 exercicio_py_charm.py
